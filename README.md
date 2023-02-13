@@ -7,6 +7,7 @@ Install dependencies
 $ pnpm i
 ```
 
+
 Make sure you define `DATABASE_URL` in your `.env` file
 Make sure you define `JWT_SECRET` in your `.env` file
 
